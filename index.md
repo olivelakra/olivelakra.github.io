@@ -4,33 +4,21 @@ You can use the [editor on GitHub](https://github.com/olivelakra/olivelakra.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# How to download and install an app on iPhone
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.	Open **App Store** on iPhone.
+2.	Search for the application you wish to install.
+3.	From the search results, touch on the application you wish to install. Application details will be presented to you.
+4.	Touch **Get** to download the application. You will be promoted to enter your passcode or fingerprint to start the download.
+5.	Installation of the application starts immediately after download is completed. You will see the app icon once the installation is complete.
+6.	Touch the app icon to launch the application.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/olivelakra/olivelakra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
