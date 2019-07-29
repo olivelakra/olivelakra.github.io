@@ -1,7 +1,7 @@
 ## Welcome to Olive's GitHub Pages
 
 
-# How to download and install an app on iPhone
+## How to download and install an app on iPhone
 
 1.	Open **App Store** on iPhone.
 2.	Search for the application you wish to install.
